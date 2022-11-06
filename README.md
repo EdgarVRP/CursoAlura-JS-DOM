@@ -14,6 +14,8 @@ Para clase 3
 
 git checkout -b "clase03"
 
+-------Terminando clase
+
 git status
 
 git add -A
